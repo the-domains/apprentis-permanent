@@ -1,0 +1,14 @@
+layout_spectrum: 0.7615282947663218
+typography_spectrum: 0.4399157853331417
+color:
+  brandStrength: 0.8028400449547917
+  lightness: 0.0725004281848669
+  saturation: 0.2968409478198737
+  rhythmicContrast: 0.8508542452473193
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: apprentis permanent
