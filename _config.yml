@@ -6,9 +6,9 @@ color:
   saturation: 0.2968409478198737
   rhythmicContrast: 0.8508542452473193
   brandColors:
-    - '#2B3A42'
-    - '#3F5765'
-    - '#BDD4DE'
-    - '#EFEFEF'
-    - '#FF530D'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: apprentis permanent
