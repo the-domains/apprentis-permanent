@@ -1,4 +1,3 @@
-layout_spectrum: 0.7615282947663218
 typography_spectrum: 0.4399157853331417
 color:
   brandStrength: 0.8028400449547917
@@ -6,9 +5,15 @@ color:
   saturation: 0.2968409478198737
   rhythmicContrast: 0.8508542452473193
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-name: apprentis permanent
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+layout_spectrum: 0.7615282947663218
+author:
+  name: Nicolas Larivière
+  email: niclariviere@gmail.com
+  url: niclariviere.com
+name: Apprentis Permanent
+title: "Ce que j'ai appris aujourd'hui"
